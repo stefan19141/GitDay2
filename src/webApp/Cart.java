@@ -7,4 +7,10 @@ public class Cart {
     // total
 
     // promo code
+
+    // additional list
+
+    // prices
+
+    // tax
 }
