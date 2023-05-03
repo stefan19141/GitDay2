@@ -12,4 +12,8 @@ public class HomePage {
 
     // Test 4
 
+    // Logo
+
+    // Footer
+
 }
