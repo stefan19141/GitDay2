@@ -6,4 +6,8 @@ public class ContactPage {
 
     // Facebook ingo
     // Insta info
+
+    // Twitter
+
+    // youtube
 }
